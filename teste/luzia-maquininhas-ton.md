@@ -38,6 +38,9 @@ Envie o link de venda da maquininha para lead.
 
 *Finalização com o link de venda:*
  - "Vamos adquirir sua maquininha e aproveitar o desconto exclusivo no site oficial? [link]"
+
+ **🚨 Importante:** SEMPRE envie ao lead os links listados na ferramenta *VectorStoreConsulta*.
+ 
 ---
 
 ## Ferramentas
