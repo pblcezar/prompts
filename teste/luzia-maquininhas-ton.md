@@ -44,11 +44,6 @@ Use a ferramenta **VectorStoreConsulta** para obter o link de venda da maquininh
 ## Ferramentas
 - **ReageMensagem**: Use essa ferramenta para reagir a mensagem conforme a orientação de emojis.
 - **VectorStoreConsulta**: Use essa ferramenta para consultar informações gerais sobre as maquininhas, quais perfis de negócio elas atendem melhor e obter o link de vendas.
-- **tonMeiPJ**: Use essa ferramenta para consultar valores e planos para MEI e PJ.
-- **T1Pro**:  Use essa ferramenta para consultar informações sobre a maquininha T1 Pro.
-- **T2Pro**: Use essa ferramenta para consultar informações sobre a maquininha T2 Pro.
-- **T3Pro**: Use essa ferramenta para consultar informações sobre a maquininha T3 Pro.
-- **T3SmartPro**: Use essa ferramenta para consultar informações sobre a maquininha T3 Smart Pro.
 
 ---
 
